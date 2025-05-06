@@ -1,7 +1,6 @@
-
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import Icon from "@/components/ui/Icon";
+import Icon from "@/components/ui/icon";
 
 const Header = () => {
   return (

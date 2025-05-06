@@ -1,6 +1,5 @@
-
 import { Link } from "react-router-dom";
-import Icon from "@/components/ui/Icon";
+import Icon from "@/components/ui/icon";
 import { Separator } from "@/components/ui/separator";
 
 const Footer = () => {
